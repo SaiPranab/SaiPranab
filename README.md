@@ -30,7 +30,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<h3 align="left">🌐 Connect with me</h3> <hr>
+<h3 align="left">🌐 Social Links</h3> <hr>
 <p align="left">
 <a href="https://www.linkedin.com/in/sai-pranab-patra-b752ba21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kalyansamala/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/saipranabpuyu1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/kalyanreddy434" height="30" width="40" /></a>
