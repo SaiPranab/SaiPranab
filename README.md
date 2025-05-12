@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=700&height=100&lines=Software+Engineer;Full+Stack+Developer;Frontend+Developer;Backend+Developer;Always+learning+new+things"></a>
 </h4>
 
-<h3> 🛠 &nbsp;Tech Stack</h3> <hr>
+<h3> 🛠 &nbsp;Tech Stack</h3> 
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -15,6 +15,7 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/-React-222232?style=for-the-badge&logo=React&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - :space_invader:
@@ -25,20 +26,41 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-094706?style=for-the-badge&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-000355?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<h3 align="left">🌐 Social Links</h3> <hr>
+<h3 align="left">🌐 Coding Platforms</h3> 
 <p align="left">
-<a href="https://www.linkedin.com/in/sai-pranab-patra-b752ba21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kalyansamala/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/saipranabpuyu1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/kalyanreddy434" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Sai_Pranab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kalyanreddy434/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/saipranabpuyu1/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/kalyanreddy434" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/Sai_Pranab/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kalyanreddy434/" height="30" width="40" />
+</a>
 </p>
+
+<div align="center">
+<i>Follow me around the web:</i><br>
+<a href="https://www.linkedin.com/in/sai-pranab-patra-b752ba21b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+ <a href="https://www.instagram.com/sai_pranab_patra/" target="_blank">
+   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+ </a>
+<a href="mailto:saipranabpatra1234@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email">
+</a>
+<!-- <a href="https://web.facebook.com/mahel.chandupa" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>  -->
+<!-- <a href="https://mahel.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?&style=flat-square&logo=iconify&logoColor=white" alt="Portfolio"></a> -->
+</div>
+
+
 <!--
 **SaiPranab/SaiPranab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
